@@ -2007,6 +2007,7 @@ img[alt='Snatches']
     height: 15px;
     width: 0;
     padding-right: 15px;
+    box-sizing: border-box;
 }
 img[alt='Seeders']
 {
@@ -2015,6 +2016,7 @@ img[alt='Seeders']
     height: 15px;
     padding-right: 11px;
     width: 0;
+	box-sizing: border-box;
 }
 img[alt='Leechers']
 {
@@ -2023,6 +2025,7 @@ img[alt='Leechers']
     height: 15px;
     padding-right: 11px;
     width: 0;
+    box-sizing: border-box;
 }
 img[src='static/common/symbols/disabled.png'] {
     content: url('./images/user-icons/disabled.png');
@@ -2031,6 +2034,7 @@ img[src='static/common/symbols/disabled.png'] {
     margin-top: -2px;
     margin-left: 2px;
     margin-bottom: -2px;
+    box-sizing: border-box;
 }
 img[src='static/common/symbols/warned.png'] {
     content: url('./images/user-icons/warned.png');
@@ -2039,6 +2043,7 @@ img[src='static/common/symbols/warned.png'] {
     margin-top: -2px;
     margin-left: 2px;
     margin-bottom: -2px;
+    box-sizing: border-box;
 }
 img[src='static/common/symbols/contest.png']
 {
@@ -2049,6 +2054,7 @@ img[src='static/common/symbols/contest.png']
     margin-bottom: -2px;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src='static/common/avatars/default.png']
 {
@@ -2061,6 +2067,7 @@ img[src*='/donor.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src*='/donor_2.png']
 {
@@ -2069,6 +2076,7 @@ img[src*='/donor_2.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src*='/donor_3.png']
 {
@@ -2077,6 +2085,7 @@ img[src*='/donor_3.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src*='/donor_4.png']
 {
@@ -2085,6 +2094,7 @@ img[src*='/donor_4.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src*='/donor_5.png']
 {
@@ -2093,6 +2103,7 @@ img[src*='/donor_5.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 img[src*='/donor_6.png']
 {
@@ -2101,6 +2112,7 @@ img[src*='/donor_6.png']
     height: 13px !important;
     padding-right: 15px !important;
     width: 0 !important;
+    box-sizing: border-box;
 }
 #log span[style='color: blue;']
 {
